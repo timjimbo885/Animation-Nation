@@ -6527,7 +6527,14 @@ let cards = [
     githubLink: 'https://github.com/marionjudy13'
   },
 ];
-
+  {
+    artName: 'Pyramid',
+    pageLink: './Art/timjimbo/index.html',
+    imageLink: './Art/timjimbo/pyramid.gif',
+    author: 'Jim',
+    githubLink: 'https://github.com/timjimbo885'
+  }
+];
 // +--------------------------------------------------------------------------------+
 // +                                                                                +
 // +                  YOU DO NOT NEED TO CHANGE ANYTHING BELOW THIS                 +
